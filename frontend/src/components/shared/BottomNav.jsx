@@ -24,7 +24,7 @@ const BottomNav = () => {
 
       <button className="flex items-center justify-center text-[#f5f5f5] w-[200px] rounded-[20px]">
         <CiCircleMore className="inline mr-2" size={20} />
-        <p>More</p>
+        <p>More.</p>
       </button>
 
       <button className="absolute bottom-5 bg-[#F6B100] text-[#f5f5f5] rounded-full p-3 items-center ">
